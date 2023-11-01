@@ -1,0 +1,29 @@
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\Camera Project.exe
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\Camera Project.deps.json
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\Camera Project.runtimeconfig.json
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\Camera Project.dll
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\Camera Project.pdb
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\FFMediaToolkit.dll
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\FFmpeg.AutoGen.dll
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\OpenCvSharp.dll
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\Basler.Pylon.dll
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\Basler.Pylon.xml
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\Camera Project.csproj.AssemblyReference.cache
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\Camera.Form1.resources
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\Camera_Project.Properties.Resources.resources
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\Camera Project.csproj.GenerateResource.cache
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\Camera Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\Camera Project.AssemblyInfoInputs.cache
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\Camera Project.AssemblyInfo.cs
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\Camera Project.csproj.CoreCompileInputs.cache
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\Camera Project.csproj.CopyComplete
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\Camera Project.dll
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\refint\Camera Project.dll
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\Camera Project.pdb
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\Camera Project.genruntimeconfig.cache
+D:\Basler Camera\Camera\Camera\obj\Debug\net6.0-windows7.0\ref\Camera Project.dll
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\Microsoft.Win32.SystemEvents.dll
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\OpenCvSharp.Extensions.dll
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\System.Drawing.Common.dll
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Basler Camera\Camera\Camera\bin\Debug\net6.0-windows7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll

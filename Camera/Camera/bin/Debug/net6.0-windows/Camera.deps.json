@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Camera/1.0.0": {
+        "dependencies": {
+          "Basler.Pylon": "1.2.0.0"
+        },
+        "runtime": {
+          "Camera.dll": {}
+        }
+      },
+      "Basler.Pylon/1.2.0.0": {
+        "runtime": {
+          "Basler.Pylon.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "7.2.1.19268"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Camera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Basler.Pylon/1.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

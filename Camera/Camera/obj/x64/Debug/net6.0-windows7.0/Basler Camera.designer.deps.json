@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FFMediaToolkit/4.5.1": {
+        "dependencies": {
+          "FFmpeg.AutoGen": "6.0.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.1/FFMediaToolkit.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.5.1.0"
+          }
+        }
+      },
+      "FFmpeg.AutoGen/6.0.0.2": {
+        "runtime": {
+          "lib/netstandard2.1/FFmpeg.AutoGen.dll": {
+            "assemblyVersion": "6.0.0.2",
+            "fileVersion": "6.0.0.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FFMediaToolkit/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9lU12cpFLvOXYh4Lg4/08lZn7Ie9IRfb1jBWP8hUsa+dBI1u0TumFGF6JV9JtosRTS7aGROgDWmXCuFLFUfCSA==",
+      "path": "ffmediatoolkit/4.5.1",
+      "hashPath": "ffmediatoolkit.4.5.1.nupkg.sha512"
+    },
+    "FFmpeg.AutoGen/6.0.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-49FmWsgV06yh9tJQiWT4L+/tt/kLLoDzojeAMwCcU19vstCQENe9H/iRdPuDwQL1cAqEIgjlnotEoawfypXFpQ==",
+      "path": "ffmpeg.autogen/6.0.0.2",
+      "hashPath": "ffmpeg.autogen.6.0.0.2.nupkg.sha512"
+    }
+  }
+}

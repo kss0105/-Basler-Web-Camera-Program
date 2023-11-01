@@ -1,0 +1,22 @@
+D:\Basler Camera\Camera\Camera\bin\x64\Debug\net6.0-windows7.0\Basler Camera.exe
+D:\Basler Camera\Camera\Camera\bin\x64\Debug\net6.0-windows7.0\Basler Camera.deps.json
+D:\Basler Camera\Camera\Camera\bin\x64\Debug\net6.0-windows7.0\Basler Camera.runtimeconfig.json
+D:\Basler Camera\Camera\Camera\bin\x64\Debug\net6.0-windows7.0\Basler Camera.dll
+D:\Basler Camera\Camera\Camera\bin\x64\Debug\net6.0-windows7.0\Basler Camera.pdb
+D:\Basler Camera\Camera\Camera\bin\x64\Debug\net6.0-windows7.0\FFMediaToolkit.dll
+D:\Basler Camera\Camera\Camera\bin\x64\Debug\net6.0-windows7.0\FFmpeg.AutoGen.dll
+D:\Basler Camera\Camera\Camera\bin\x64\Debug\net6.0-windows7.0\Basler.Pylon.dll
+D:\Basler Camera\Camera\Camera\bin\x64\Debug\net6.0-windows7.0\Basler.Pylon.xml
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\Basler Camera.csproj.AssemblyReference.cache
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\Camera.Form1.resources
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\Basler Camera.csproj.GenerateResource.cache
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\Basler Camera.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\Basler Camera.AssemblyInfoInputs.cache
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\Basler Camera.AssemblyInfo.cs
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\Basler Camera.csproj.CoreCompileInputs.cache
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\Basler Camera.csproj.CopyComplete
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\Basler Camera.dll
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\refint\Basler Camera.dll
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\Basler Camera.pdb
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\Basler Camera.genruntimeconfig.cache
+D:\Basler Camera\Camera\Camera\obj\x64\Debug\net6.0-windows7.0\ref\Basler Camera.dll

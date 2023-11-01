@@ -1,0 +1,7 @@
+D:\Basler Camera\Camera\Camera\obj\Debug\net5.0-windows\Basler Camera.csproj.AssemblyReference.cache
+D:\Basler Camera\Camera\Camera\obj\Debug\net5.0-windows\Camera.Form1.resources
+D:\Basler Camera\Camera\Camera\obj\Debug\net5.0-windows\Basler Camera.csproj.GenerateResource.cache
+D:\Basler Camera\Camera\Camera\obj\Debug\net5.0-windows\Basler Camera.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basler Camera\Camera\Camera\obj\Debug\net5.0-windows\Basler Camera.AssemblyInfoInputs.cache
+D:\Basler Camera\Camera\Camera\obj\Debug\net5.0-windows\Basler Camera.AssemblyInfo.cs
+D:\Basler Camera\Camera\Camera\obj\Debug\net5.0-windows\Basler Camera.csproj.CoreCompileInputs.cache
